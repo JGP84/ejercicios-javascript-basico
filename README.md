@@ -1,2 +1,2 @@
-# ejercicios-javascript-basico
+# Ejercicios del curso javascript básico
 ## Plataforma Openbootcamp
